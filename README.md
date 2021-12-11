@@ -7,6 +7,5 @@
 </center>
 
 #### Synthetic Dataset
-<center><head><h4> Synthetic Dataset </h4></head>
 ![Alt text](assets/accuracy_sd.png?raw=true "Accuracy on Synthetic Data")
 ![Alt text](assets/loss_sd.png?raw=true "Loss on Synthetic Data")
