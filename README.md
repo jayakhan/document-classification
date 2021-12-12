@@ -4,7 +4,6 @@
 #### Real Dataset
 ![Alt text](assets/accuracy_real_data.png?raw=true "Accuracy on Real Data")
 ![Alt text](assets/loss_real_data.png?raw=true "Loss on Real Data")
-</center>
 
 #### Synthetic Dataset
 ![Alt text](assets/accuracy_sd.png?raw=true "Accuracy on Synthetic Data")
